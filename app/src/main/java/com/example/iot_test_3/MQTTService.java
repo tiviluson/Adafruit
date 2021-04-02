@@ -20,12 +20,12 @@ public class MQTTService {
     final String serverUri = "tcp://io.adafruit.com:1883";
 
 
-    final String clientId = "tiviluson_DELL";
+    final String clientId = "[clientID]";
     final String subscriptionTopic = "tiviluson/feeds/iot-test";
 
 
     final String username = "tiviluson";
-    final String password = "aio_HIHl51cei3pGl8Rkvz0Hk2XveOiN";
+    final String password = "[password]";
 
     public MqttAndroidClient mqttAndroidClient;
 
