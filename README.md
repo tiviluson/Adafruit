@@ -40,9 +40,13 @@ This allow Google Assistant to execute a pre-set command once it detects the spe
 </p>
 
 ## Results
+All goals are achieved with high responsiveness.  
 <p align="center">
   <img src="/assets/176331572_252483693267840_5291860450287102402_n.jpg" alt="Google Assistant 1" height=300/>
   <img src="/assets/177669837_1028473607987041_7268593159389747423_n.jpg" alt="Google Assitant 2" height=300/>
   <img src="/assets/175528655_305034204346117_2562767816612890340_n.jpg" alt="Android application 1" height=300/>
   <img src="/assets/176325569_287960662883720_8402170644910236346_n.jpg" alt="Android application 2" height=300/>
 </p>
+
+## Future work
+Add more devices into the network.
